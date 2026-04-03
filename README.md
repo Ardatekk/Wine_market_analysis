@@ -17,7 +17,7 @@ This project transforms `data/vivino.db` into a **business-ready wine market int
 
 ### 🌍 Country Market Strength
 
-![Country Leaderboard](images/country_leaderboard.png)
+![Country Leaderboard](https://i.ibb.co/84KnhvjD/country-png.png)
 
 **Key insight:** France, Italy, and the United States dominate volume, but each plays a different strategic role.
 
@@ -25,7 +25,7 @@ This project transforms `data/vivino.db` into a **business-ready wine market int
 
 ### 🏆 Top 10 Wines for Sales
 
-![Top Wines](images/top_10_wines.png)
+![Top Wines](https://i.ibb.co/kgdC42yL/top10-png.png)
 
 Balanced scoring model combining:
 
@@ -38,7 +38,7 @@ Balanced scoring model combining:
 
 ### 💰 Marketing Priority Heatmap
 
-![Marketing Priority](images/marketing_priority.png)
+![Marketing Priority](https://i.ibb.co/0yhNG4Tf/marketing-png.png)
 
 Weighted signals:
 
@@ -52,7 +52,7 @@ Weighted signals:
 
 ### 🏅 Winery Awards System
 
-![Winery Awards](images/winery_awards.png)
+![Winery Awards](https://i.ibb.co/7NR1s2XN/winery-png.png)
 
 Categories:
 
@@ -66,7 +66,7 @@ Categories:
 
 ### 🍇 Grape Intelligence Layer
 
-![Grape Analysis](images/grape_analysis.png)
+![Grape Analysis](https://i.ibb.co/r2MFRJQc/grapes-png.png)
 
 Top grapes identified via global rating clusters
 
@@ -76,7 +76,7 @@ Top grapes identified via global rating clusters
 
 ### 🧠 Taste Cluster Detection
 
-![Taste Cluster](images/taste_cluster.png)
+![Taste Cluster](https://i.ibb.co/KccHmbHG/taste-png.png)
 
 Detected flavor profile:
 
